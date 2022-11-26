@@ -13,3 +13,14 @@
     <img src="https://img.shields.io/github/downloads/cloud-week-thiago/gitProject/total?style=plastic" />
     <img src="https://img.shields.io/badge/grade-Student-blue" />
 </div>
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com)
