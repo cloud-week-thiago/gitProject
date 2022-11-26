@@ -10,4 +10,6 @@
 
 <div align="center">
     <img src="https://img.shields.io/github/last-commit/cloud-week-thiago/gitProject?style=plastic" />
+    <img src="https://img.shields.io/github/downloads/cloud-week-thiago/gitProject/total?style=plastic" />
+    <img src="https://img.shields.io/badge/Grade-Student-blue" />
 </div>
