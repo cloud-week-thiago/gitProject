@@ -1,4 +1,6 @@
-<img align="center" src="/assets/github-logo.png" />
+<div align="center">
+    <img src="/assets/github-logo.png" />
+</div>
 
 <h1 align="center">Git Project</h1>
 
